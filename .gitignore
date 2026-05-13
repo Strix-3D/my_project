@@ -3,3 +3,6 @@ Code/obj/
 Editor/obj/
 **/AssemblyInfo.cs
 **/AssemblyInfoInputs.cache
+
+# s&box editor directory (auto-generated)
+.sbox/
